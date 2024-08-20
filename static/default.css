@@ -1,0 +1,46 @@
+body {
+    background-color:#FFFFFF;
+}
+
+div#container {
+    margin-top:5%;
+}
+
+div#space {
+    display:block;
+    margin: 0 auto;
+    width: 800px;
+    height: 10px;
+ 
+}
+
+div#logo {
+    display:block;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    font-size:30px;
+    font-family:Helvetica;  
+
+}
+
+div#form {
+    padding: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    display:block;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    font-size:30px;
+    font-family:Helvetica;  
+}
+
+div#results {
+    display:block;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    font-size:30px;
+    font-family:Helvetica;  
+}
